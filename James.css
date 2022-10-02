@@ -1,0 +1,41 @@
+h1 {
+    color: #333;
+    border-style: dashed;
+    text-align: center;
+    font-size: 60px;
+    border-color: black;
+}
+
+p{
+    text-align: left;
+    border-style: ridge;
+    border-color: #333;
+    font-size: 20px;
+}
+
+
+img{
+    height: 200px;
+    width: 200px;
+    border-end-end-radius: 10px;
+    border-end-start-radius: 10px;
+    border-start-end-radius: 10px;
+    border-start-start-radius: 10px;
+    margin: 25px;
+}
+
+body{
+    background-color: peachpuff;
+}
+
+footer img{
+    height: 50px;
+    width: 50px;
+    margin: 0px;    
+}
+
+video{
+    border-end-end-radius: 10px;
+    border-end-start-radius: 10px;
+border-radius: 10px;
+}
